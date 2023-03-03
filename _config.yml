@@ -1,6 +1,4 @@
-# Jekyll Configuration
-name: Namito's Standups
-description: Script used to update my status during standups
-url: "http://namitoyokota.github.io/standups"
+name: Namito's Prayers
+description: A prayer board.
+url: "http://pray.namito.wiki"
 markdown: kramdown
-highlighter: rouge
